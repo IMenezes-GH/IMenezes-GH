@@ -1,6 +1,8 @@
 ### Olá! I'm Isabela, a student from Brazil.
 
 Currently graduating in Data Science and looking to get into web-development  
+
+I'm passionate about many things, such as birds, retro videogames and digital art and FOSS software.
 I love learning new things and helping people however I can whenever possible 💙  
 
 --------------
