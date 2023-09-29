@@ -32,40 +32,27 @@
                 <p>I'm Currently graduating in Data Science and looking to get into web-development. <br />
                 I'm passionate about many things, such as birds, retro videogames, digital art and FOSS software.</p>
                 <p>I love learning new things and helping people however I can whenever possible 💙  </p>
-                <br>
-                </td>
-            <tr>
-                <td colspan=2>
-                    <h3> My Objectives ✨:</h3>
-                    <ul>
-                        <li>Get into the software or web development industry</li>
-                        <li>Develop my own general purpose discord bot</li>
-                        <li>Learn Godot</li>
-                        <li>Learn C++ (QT and QML)</li>
-                        <li>Contribute to:
-                            <ul>
-                                <li>KDE</li>
-                                <li>Cobblemon</li>
-                            </ul>
-                        </li>
-                    </ul>
-                    <br>
-                </td>
+                <hr>
+                <h3> My Objectives ✨:</h3>
+                <ul>
+                    <li>Get into the software or web development industry</li>
+                    <li>Develop my own general purpose discord bot</li>
+                    <li>Learn Godot</li>
+                    <li>Learn C++ (QT and QML)</li>
+                    <li>Contribute to:
+                        <ul>
+                            <li>KDE</li>
+                            <li>Cobblemon</li>
+                        </ul>
+                    </li>
+                </ul>
+            <br>
+            </td>
             </tr>
     </tbody>
-    <tfoot>
-        <tr>
-            <td colspan=2>
-                <a href="https://github.com/anuraghazra/github-readme-stats">
-                  <img height=200 align="center" src="https://github-readme-stats-mfdouuc7p-imenezes-gh.vercel.app/api?username=IMenezes-GH&theme=transparent" />
-                </a>           
-                <a href="https://github.com/anuraghazra/convoychat">
-                  <img height=200 align="center" src="https://github-readme-stats-mfdouuc7p-imenezes-gh.vercel.app/api/top-langs?username=IMenezes-GH&theme=transparent&layout=compact&langs_count=8&card_width=320" />
-                </a>  
-            </td>
-        </tr>
-    </tfoot>
 </table>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats-mfdouuc7p-imenezes-gh.vercel.app/api?username=IMenezes-GH&theme=transparent" /></a><a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats-mfdouuc7p-imenezes-gh.vercel.app/api/top-langs?username=IMenezes-GH&theme=transparent&layout=compact&langs_count=8&card_width=320" /></a>  
 
 --------------
 
