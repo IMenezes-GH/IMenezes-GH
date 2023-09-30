@@ -9,7 +9,7 @@
                 </p>
             </th>
             <th>
-                <img height="150px" src="https://media.discordapp.net/attachments/519307505822597144/1108096092706439198/cockatiel.gif" alt="cockatiel gif">
+                <img height="150px" src="./cockatiel.gif" alt="cockatiel gif">
             </th>
         </tr>
         <tr>
