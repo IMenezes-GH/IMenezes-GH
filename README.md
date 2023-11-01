@@ -33,20 +33,7 @@
                 I'm passionate about many things, such as birds, retro videogames, digital art and FOSS software.</p>
                 <p>I love learning new things and helping people however I can whenever possible 💙  </p>
                 <hr>
-                <h3> My Objectives ✨:</h3>
-                <ul>
-                    <li>Get into the software or web development industry</li>
-                    <li>Develop my own general purpose discord bot</li>
-                    <li>Learn Godot</li>
-                    <li>Learn C++ (QT and QML)</li>
-                    <li>Contribute to:
-                        <ul>
-                            <li>KDE</li>
-                            <li>Cobblemon</li>
-                        </ul>
-                    </li>
-                </ul>
-            <br>
+                <br>
             </td>
             </tr>
     </tbody>
