@@ -37,7 +37,7 @@
             <tr>
                 <td colspan=2>
                 <br>
-                <p>I'm a Data Science graduate and I'm looking to get into web development or software engineering field. <br />
+                <p>I'm a Data Science graduate looking to get into web development or software engineering field. <br />
                 I'm passionate about many things, such as birds, retro videogames, digital art and FOSS software.</p>
                 <p>I love learning new things and helping people however I can whenever possible 💙  </p>
                 <hr>
