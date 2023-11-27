@@ -29,7 +29,7 @@
             <tr>
                 <td colspan=2>
                 <br>
-                <p>I'm Currently graduating in Data Science and looking to get into web-development. <br />
+                <p>I'm Currently a Data Science graduate and looking to get into web-development or software engineering. <br />
                 I'm passionate about many things, such as birds, retro videogames, digital art and FOSS software.</p>
                 <p>I love learning new things and helping people however I can whenever possible 💙  </p>
                 <hr>
