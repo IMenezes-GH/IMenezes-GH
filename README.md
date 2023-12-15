@@ -35,8 +35,8 @@
             <tr>
                 <td colspan=2>
                 <br>
-                <p>I'm a Data Science graduate looking to get into web development or software engineering field. <br />
-                I'm passionate about many things, such as birds, retro videogames, digital art and FOSS software.</p>
+                <p>
+                I'm passionate about many things, such as birds, retro videogames, digital art and FOSS software, to name a few.</p>
                 <p>I love learning new things and helping people however I can whenever possible 💙  </p>
                 <hr>
                 <br>
@@ -45,11 +45,10 @@
     </tbody>
 </table>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats-mfdouuc7p-imenezes-gh.vercel.app/api?username=IMenezes-GH&theme=transparent" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats-mfdouuc7p-imenezes-gh.vercel.app/api/top-langs?username=IMenezes-GH&theme=transparent&layout=compact&langs_count=8&card_width=320" /></a>  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats-woad-chi.vercel.app/api?username=IMenezes-GH&theme=transparent" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats-woad-chi.vercel.app/api/top-langs?username=IMenezes-GH&theme=transparent&layout=compact&langs_count=8&card_width=320" /></a>  
 
 --------------
 
-*Still trying to figure things out and looking forward to contributing to the open source community one day!*
 
 
 
